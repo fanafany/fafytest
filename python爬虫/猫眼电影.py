@@ -25,6 +25,7 @@ def parse_html(html):
     patter = re.compile('<dd>.*?board-index.*?(\d+).*?data-src="(.*?)".*?name"><a href="(.*?)" title="(.*?)" .*?movieId:(.*?)}">.*?</a>.*?star">(.*?)</p>.*?releasetime">(.*?)</p>.*?integer">(.*?)</i>.*?fraction">(.*?)</i>',re.S)
     movie_list = re.findall(patter,html)
     dy_st = 'https://maoyan.com'
+    # yield movie_list
     for item in movie_list:
         #数据库存入写法：
         cursor.execute(
