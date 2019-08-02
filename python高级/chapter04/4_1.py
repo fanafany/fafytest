@@ -29,7 +29,9 @@ class Duck(object):
 animal_list = [Cat,Dog,Duck]
 for animal in animal_list:
     animal().say()
-#
+#i am a cat
+#i am a dog
+#i am a duck
 
 
 a = ['fafy1','fafy2']
