@@ -25,16 +25,21 @@ class BaseClass:
         return 'i am baseclass'
 
 class MetaClass(type):
-    pass
+    def __new__(cls, *args, **kwargs):
+        return super().__new__(cls,*args,**kwargs)
+
 #什么是元类，元类是创建类的类，对象<-class（对象）<-type
 class User(metaclass=MetaClass):
-    pass
+    def __init__(self,name):
+        self.name = name
+    def __str__(self):
+        return "user"
 
 if __name__ == "__main__":
     # Myclass = create_class("user")
     # my_obj = Myclass()
     # print(type(my_obj))
-    User = type("User", (BaseClass,), {"name":"user",'say':say})
-    my_obj = User()
-    print(my_obj.answer())
+    # User = type("User", (BaseClass,), {"name":"user",'say':say})
+    my_obj = User(name="fanafany")
+    print(my_obj)
     #6228210459030996073

@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="285c13ee-bf1c-4a90-9270-9999bada4afd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter04/contextlib_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/private_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/self_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/super_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/with_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/array_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/bisect_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/list_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/sequence_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/slice_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/slice_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/dict_abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/dict_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/dict_performance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/dict_subclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/read_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/set_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/an_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/what_is_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/attr_desc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/getattr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/metaclass_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/property_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PyQt5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyQt5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PyQt5/icon/说明.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../python基础/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python基础/.idea/misc.xml" afterDir="false" />
@@ -38,7 +10,8 @@
       <change beforePath="$PROJECT_DIR$/../python基础/socket.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../python基础/调用函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python基础/调用函数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter04/class_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter04/class_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter07/an_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter07/an_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/metaclass_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/metaclass_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,37 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter07/what_is_var.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter08/property_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter08/getattr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter08/attr_desc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+            <state relative-caret-position="1449">
+              <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding>
                 <element signature="e#80#114#0" expanded="true" />
               </folding>
@@ -87,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter08/metaclass_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            <state relative-caret-position="897">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -109,7 +55,34 @@
         <entry file="file://$PROJECT_DIR$/chapter07/an_error.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="759">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter09/iterable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter09/iterable_iterator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter09/gen_func.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -194,12 +167,15 @@
         <option value="$PROJECT_DIR$/chapter06/dict_performance.py" />
         <option value="$PROJECT_DIR$/chapter06/read_files.py" />
         <option value="$PROJECT_DIR$/chapter07/delete.py" />
-        <option value="$PROJECT_DIR$/chapter07/an_error.py" />
         <option value="$PROJECT_DIR$/chapter07/what_is_var.py" />
         <option value="$PROJECT_DIR$/chapter08/property_test.py" />
         <option value="$PROJECT_DIR$/chapter08/getattr.py" />
         <option value="$PROJECT_DIR$/chapter08/attr_desc.py" />
         <option value="$PROJECT_DIR$/chapter08/metaclass_test.py" />
+        <option value="$PROJECT_DIR$/chapter07/an_error.py" />
+        <option value="$PROJECT_DIR$/chapter09/iterable.py" />
+        <option value="$PROJECT_DIR$/chapter09/iterable_iterator.py" />
+        <option value="$PROJECT_DIR$/chapter09/gen_func.py" />
       </list>
     </option>
   </component>
@@ -214,8 +190,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
-    <option name="y" value="97" />
+    <option name="x" value="496" />
+    <option name="y" value="83" />
     <option name="width" value="1321" />
     <option name="height" value="892" />
   </component>
@@ -227,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,11 +211,15 @@
               <item name="python高级" type="b2602c69:ProjectViewProjectNode" />
               <item name="python高级" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python高级" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python高级" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter09" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,29 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.metaclass_test">
-    <configuration name="an_error" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python高级" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter07/an_error.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.gen_func">
     <configuration name="attr_desc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python高级" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getattr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gen_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python高级" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,12 +286,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter08/getattr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter09/gen_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python高级" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter09/iterable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterable_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python高级" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter09/iterable_iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,35 +366,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="property_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python高级" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter08/property_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gen_func" />
+        <item itemvalue="Python.iterable_iterator" />
+        <item itemvalue="Python.iterable" />
         <item itemvalue="Python.metaclass_test" />
         <item itemvalue="Python.attr_desc" />
-        <item itemvalue="Python.getattr" />
-        <item itemvalue="Python.property_test" />
-        <item itemvalue="Python.an_error" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +401,10 @@
       <workItem from="1565572553936" duration="8960000" />
       <workItem from="1565659792583" duration="10016000" />
       <workItem from="1565831696515" duration="14616000" />
-      <workItem from="1565917503447" duration="9929000" />
+      <workItem from="1565917503447" duration="11167000" />
+      <workItem from="1566178675285" duration="6929000" />
+      <workItem from="1566263943927" duration="9243000" />
+      <workItem from="1566353614662" duration="10816000" />
     </task>
     <task id="LOCAL-00001" summary="demos">
       <created>1564724969041</created>
@@ -429,21 +413,29 @@
       <option name="project" value="LOCAL" />
       <updated>1564724969041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1565940163846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565940163846</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132488000" />
+    <option name="totallyTimeSpent" value="160714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="97" width="1321" height="892" extended-state="0" />
+    <frame x="496" y="83" width="1321" height="892" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20618556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21570182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2823219" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2823219" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973614" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,7 +458,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demos" />
-    <option name="LAST_COMMIT_MESSAGE" value="demos" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,6 +473,11 @@
           <url>file://$PROJECT_DIR$/chapter08/getattr.py</url>
           <line>16</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter09/gen_func.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -495,14 +493,16 @@
     <SUITE FILE_PATH="coverage/python$list_gen.coverage" NAME="list_gen Coverage Results" MODIFIED="1565314566320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter05" />
     <SUITE FILE_PATH="coverage/python$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1565577549100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter06" />
     <SUITE FILE_PATH="coverage/python$dict_performance.coverage" NAME="dict_performance Coverage Results" MODIFIED="1565836174435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter06" />
+    <SUITE FILE_PATH="coverage/python$iterable.coverage" NAME="iterable Coverage Results" MODIFIED="1566291712032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter09" />
     <SUITE FILE_PATH="coverage/python$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1562825599491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CGI" />
     <SUITE FILE_PATH="coverage/python$demo__2_.coverage" NAME="demo (2) Coverage Results" MODIFIED="1562827109517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
     <SUITE FILE_PATH="coverage/python$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1562826152544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
-    <SUITE FILE_PATH="coverage/python$metaclass_test.coverage" NAME="metaclass_test Coverage Results" MODIFIED="1565933253572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter08" />
+    <SUITE FILE_PATH="coverage/python$metaclass_test.coverage" NAME="metaclass_test Coverage Results" MODIFIED="1566202462068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter08" />
     <SUITE FILE_PATH="coverage/python$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1562826055174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
     <SUITE FILE_PATH="coverage/python$attr_desc.coverage" NAME="attr_desc Coverage Results" MODIFIED="1565921287135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter08" />
     <SUITE FILE_PATH="coverage/python$all_is_object.coverage" NAME="all_is_object Coverage Results" MODIFIED="1562641469393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
     <SUITE FILE_PATH="coverage/python$with_test.coverage" NAME="with_test Coverage Results" MODIFIED="1565162774333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter04" />
+    <SUITE FILE_PATH="coverage/python$gen_func.coverage" NAME="gen_func Coverage Results" MODIFIED="1566369595645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter09" />
     <SUITE FILE_PATH="coverage/python$4_1.coverage" NAME="4_1 Coverage Results" MODIFIED="1564536987428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter04" />
     <SUITE FILE_PATH="coverage/python$contextlib_with.coverage" NAME="contextlib_with Coverage Results" MODIFIED="1565163218125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter04" />
     <SUITE FILE_PATH="coverage/python$type_object_class.coverage" NAME="type_object_class Coverage Results" MODIFIED="1562658994696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
@@ -522,6 +522,7 @@
     <SUITE FILE_PATH="coverage/python$dict_abc.coverage" NAME="dict_abc Coverage Results" MODIFIED="1565770195863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter06" />
     <SUITE FILE_PATH="coverage/python$read_files.coverage" NAME="read_files Coverage Results" MODIFIED="1565836171091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter06" />
     <SUITE FILE_PATH="coverage/python$demo1__2_.coverage" NAME="demo1 (2) Coverage Results" MODIFIED="1562827602857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/python$iterable_iterator.coverage" NAME="iterable_iterator Coverage Results" MODIFIED="1566367361272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter09" />
     <SUITE FILE_PATH="coverage/python$property_test.coverage" NAME="property_test Coverage Results" MODIFIED="1565854930549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter08" />
     <SUITE FILE_PATH="coverage/python$array_test.coverage" NAME="array_test Coverage Results" MODIFIED="1565313273420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter05" />
   </component>
@@ -729,6 +730,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter08/attr_desc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding>
+            <element signature="e#80#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter08/metaclass_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter07/delete.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -739,7 +757,7 @@
     <entry file="file://$PROJECT_DIR$/chapter07/an_error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -764,20 +782,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter08/attr_desc.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/iterable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-          <folding>
-            <element signature="e#80#114#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="299">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter08/metaclass_test.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/iterable_iterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter09/gen_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>

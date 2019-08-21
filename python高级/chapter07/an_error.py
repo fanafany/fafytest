@@ -30,6 +30,8 @@ if __name__ == "__main__":
     com3.add("bobby5")
     print(com2.staffs)
     print(com3.staffs)
+
+
     print(com2.staffs is com3.staffs)#因为它两都使用了默认的list
     #尽量不传递list，list传进来也是可被修改的
 
