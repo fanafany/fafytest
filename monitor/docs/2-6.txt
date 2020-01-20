@@ -1,0 +1,18 @@
+模型生成数据表
+
+win+R 输入services.msc查看mysql服务名
+net start mysql57
+mysql -h127.0.0.1 -uroot -P3306 -p
+\s
+show databases; 查看数据库
+create database monitor;创建数据库
+use monitor; 切换到monitor库下面
+show tables; 查看数据表
+desc cpu;查看表结构
+show create table cpu\G;查看具体创建过程
+分析实现思路：
+    1.导入数据库连接驱动
+    2.创建连接引擎（配置mysql数据库连接信息）
+    3.模型映射成数据表
+
+
