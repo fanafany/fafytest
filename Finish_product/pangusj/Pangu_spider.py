@@ -1,4 +1,4 @@
-
+# _*_ coding: utf-8 _*_
 __author__ = 'fanafany'
 __date__ = '2020-03-19 12:02 '
 import requests
@@ -15,7 +15,7 @@ ws.append(rs)
 start = datetime.datetime.now()
 
 def handle_index():
-    for i in range(1,76172):
+    for i in range(1,76163):
         times = str(int(time.time()))
         url = 'https://api-pangu.songshuai.com/TmkClue/GetTmkPublicPoolList'
 
@@ -38,21 +38,33 @@ def handle_index():
             name = item['CustomName']
             mobileid = item['MobileId']
             ProvinceName = item['ProvinceName']
-            # CityName = item['CityName']
+            CityName = item['CityName']
+            if ProvinceName == None:
+                ProvinceName = ''
+            if CityName == None:
+                CityName = ''
             LastCommunicateContent = item['LastCommunicateContent']
+            if LastCommunicateContent == None:
+                LastCommunicateContent = ''
             CustomNo = item['CustomNo']
+            if CustomNo == None:
+                CustomNo = ''
             ClueNo = item['ClueNo']
+            if ClueNo == None:
+                ClueNo = ''
             ClueOwnerName = item['ClueOwnerName']
+            if ClueOwnerName == None:
+                ClueOwnerName = ''
             urls = 'https://api-pangu.songshuai.com/CustomCenter/GetContactById?id={}'.format(mobileid)
             resp = requests.get(urls,cookies=cookie,headers=headers).json()
             mobile = resp['result']
-            gs = name+','+str(mobile)+','+str(mobileid)+','+ProvinceName+','+str(CustomNo)+','+str(ClueNo)+','+ClueOwnerName+','+LastCommunicateContent
+            gs = name+','+str(mobile)+','+str(mobileid)+','+ProvinceName+CityName+','+str(CustomNo)+','+str(ClueNo)+','+ClueOwnerName+','+LastCommunicateContent
             gsh = gs.split(',')
             # print(gsh)
             # print(name+','+str(mobile)+','+str(mobileid)+','+ProvinceName+','+CityName+','+str(CustomNo)+','+str(ClueNo)+','+str(ClueGuid)+','+ClueOwnerName+','+LastCommunicateContent)
             ws.append(gsh)
         print('正在爬取第'+str(i)+'页数据')
-        wb.save('pangusj.xls')
+        wb.save('盘古数据.xls')
     sj = i * 10
     print('一共' + str(sj) + '数据')
     end = datetime.datetime.now()
