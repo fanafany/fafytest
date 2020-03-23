@@ -52,7 +52,7 @@ def handle_index():
             # print(name+','+str(mobile)+','+str(mobileid)+','+ProvinceName+','+CityName+','+str(CustomNo)+','+str(ClueNo)+','+str(ClueGuid)+','+ClueOwnerName+','+LastCommunicateContent)
             ws.append(gsh)
         print('正在爬取第'+str(i)+'页数据')
-        wb.save('盘古数据.xls')
+        wb.save('pangusj.xls')
     sj = i * 10
     print('一共' + str(sj) + '数据')
     end = datetime.datetime.now()
