@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7addf445-2b81-4768-889c-5b39921f2996" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../PyQt5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyQt5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyQt5/chapter01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyQt5/chapter01/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first/.idea/first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first/.idea/first.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/images/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/images/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/spiders/Investing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/spiders/blog2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/spiders/tesser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/foreign/sql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreign/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../guider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guider/recording.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../../guider/recording.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guider/sqltest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../guider/sqltest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../monitor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../monitor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python基础/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python基础/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python基础/.idea/python基础.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python基础/.idea/python基础.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python基础/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python基础/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python基础/socket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python基础/调用函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python基础/调用函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python爬虫/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python爬虫/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python爬虫/猫眼电影.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python高级/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python高级/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python高级/chapter04/4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python高级/chapter04/4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python高级/chapter09/gen_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python高级/chapter09/gen_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python高级/chapter09/how_gen_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python高级/chapter09/how_gen_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../每日一爬/python/开仓信号.CSV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../每日一爬/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../每日一爬/test/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cainiu_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
+              <folding>
+                <element signature="e#80#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-314">
+              <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#79#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Cainiu_spider.py" />
+        <option value="$PROJECT_DIR$/tests.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/CainiuYS.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/../Dingxy_Spider/.idea/Dingxy_Spider.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="5" />
+    <option name="width" value="1276" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CainiuYS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CainiuYS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dingxy_Spider" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Cainiu_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CainiuYS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cainiu_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CainiuYS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Cainiu_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7addf445-2b81-4768-889c-5b39921f2996" name="Default Changelist" comment="" />
+      <created>1585287731377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585287731377</updated>
+      <workItem from="1585287732639" duration="8848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8848000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="5" width="1276" height="976" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41330168" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CainiuYS$Cainiu_spider.coverage" NAME="Cainiu_spider Coverage Results" MODIFIED="1585292008269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CainiuYS$test.coverage" NAME="test Coverage Results" MODIFIED="1585293743065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/菜牛养生.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/彩牛养生.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="253">
+          <caret line="3968" column="56" lean-forward="true" selection-start-line="3968" selection-start-column="56" selection-end-line="3968" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-314">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#79#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cainiu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#80#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
