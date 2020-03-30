@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc0686c-3881-4a81-97c2-0b87f9f595f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dingxy_Spider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dingxy_Spider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jiank99/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jiank99/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jiank99/Jiank99.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jiank99/Jiank99.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PyQt5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyQt5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PyQt5/chapter01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyQt5/chapter01/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Python_Study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Study/.idea/workspace.xml" afterDir="false" />
@@ -118,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-1465" />
     <option name="y" value="69" />
     <option name="width" value="1276" />
@@ -157,6 +160,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -274,7 +278,7 @@
     <option name="totallyTimeSpent" value="8176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1465" y="69" width="1276" height="976" extended-state="1" />
+    <frame x="-1465" y="69" width="1276" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25411186" />
